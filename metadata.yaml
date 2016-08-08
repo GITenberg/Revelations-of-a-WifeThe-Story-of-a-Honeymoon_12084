@@ -1,0 +1,25 @@
+_repo: Revelations-of-a-WifeThe-Story-of-a-Honeymoon_12084
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Garrison, Adele
+    gutenberg_agent_id: '4218'
+    url: http://www.gutenberg.org/2009/agents/4218
+    wikipedia: http://en.wikipedia.org/wiki/Adele_Garrison
+description: Cover -- Contents.
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12084'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Married people -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Revelations of a Wife
+
+  The Story of a Honeymoon'
+url: http://www.gutenberg.org/ebooks/12084
